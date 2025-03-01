@@ -11,6 +11,10 @@ namespace SO_Proiect
         static void Main(string[] args)
         {
             Console.WriteLine("Jet acasa");
+            Console.WriteLine("Jet acasa");
+            Console.WriteLine("Jet acasa");
+            Console.WriteLine("Jet acasa");
+            Console.WriteLine("Jet acasa");
         }
     }
 }
